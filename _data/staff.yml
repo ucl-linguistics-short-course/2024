@@ -1,21 +1,21 @@
 Instructors:
     - name: Abdullah Almuhaysh
       email: abdullah.almuhaysh.22@ucl.ac.uk
-      url: 
+      url: https://www.ucl.ac.uk/pals/research/linguistics/linguistics-people
       image1: staff/placeholder.svg
       image2: staff/placeholder.svg
       bio: 
 
     - name: Kayla Chen
       email: keyue.chen.19@ucl.ac.uk
-      url:
+      url: https://keyue-c.github.io/
       image1: staff/placeholder.svg
       image2: staff/placeholder.svg
       bio: 
 
     - name: Yolanda García-Lorenzo
       email: y.lorenzo@ucl.ac.uk
-      url: 
+      url: https://www.ucl.ac.uk/pals/research/linguistics/linguistics-people
       image1: staff/placeholder.svg
       image2: staff/placeholder.svg
       bio: 
@@ -29,24 +29,31 @@ Instructors:
 
     - name: Tim Jantarungsee
       email: t.jantarungsee@ucl.ac.uk
-      url: 
+      url: https://www.ucl.ac.uk/pals/research/linguistics/linguistics-people
       image1: staff/tim1.png
       image2: staff/tim2.png
       bio: 
 
     - name: Teru Konishi
       email: teru.konishi.14@ucl.ac.uk
-      url: 
+      url: https://www.ucl.ac.uk/pals/research/linguistics/linguistics-people
       image1: staff/teru1.png
       image2: staff/teru2.png
       bio: 
 
     - name: Erying Qin
       email: erying.qin.18@ucl.ac.uk
-      url: 
+      url: https://www.ucl.ac.uk/pals/research/linguistics/linguistics-people
       image1: staff/erying1.png
       image2: staff/erying2.png
       bio: Erying Qin works on experimental pragmatics, which aims to use methodologies drawn from the experimental psychology to investigate current theories of semantics and pragmatics for human language. Her doctoral work focuses on scalar inferences for different scalar words, particularly for paucal quantifiers.
+
+    - name: Shenshen Wang
+      email: shenshen.wang@ucl.ac.uk
+      url: https://www.ucl.ac.uk/pals/research/linguistics/linguistics-people
+      image1: staff/placeholder.svg
+      image2: staff/placeholder.svg
+      bio: 
 
     - name: Wenkai Tay
       email: wenkai.tay.18@ucl.ac.uk
@@ -57,7 +64,14 @@ Instructors:
   
     - name: Xinxin Yan
       email: xinxin.yan.15@ucl.ac.uk
-      url: 
+      url: https://www.ucl.ac.uk/pals/research/linguistics/linguistics-people
       image1: staff/placeholder.svg
       image2: staff/placeholder.svg
       bio: 
+
+    - name: Boyan Yin
+      email: boyan.yin.20@ucl.ac.uk
+      url: https://www.ucl.ac.uk/pals/research/linguistics/linguistics-people
+      image1: staff/boyan1.png
+      image2: staff/boyan2.png
+      bio: Boyan Yin works on syntax and its interfaces. Her research interests lie in various topics, including definiteness encoding, elliptical structures (sluicing), information structure and null arguments in Chinese and other languages.

@@ -1,5 +1,4 @@
 <div class="instructors clearfix">
-  <br /><br />
   {% for instructor in site.data.staff.Instructors %}
   <div class="instructor-profile-two-col">
     <a href="{{ instructor.url }}" target="_blank"><img class="ppc-small" src="{{ instructor.image1 | prepend: '/assets/images/' | relative_url }}" /></a>

@@ -2,7 +2,7 @@
 layout: home
 title: modules
 heading: 'Modules'
-banner: "/assets/images/banners/book1.jpg"
+banner: "/assets/images/banners/book1.webp"
 ---
 
 <ul style="list-style-type: none;">
@@ -22,7 +22,7 @@ banner: "/assets/images/banners/book1.jpg"
 
 # **<span style="text-align: center;">Term 1</span>**
 
-### Language and the Real World: an Introduction to Argument Structure <a name="m1"></a>
+### Language and the Real World: an Introduction to Argument Structure (Zoom/hybrid)<a name="m1"></a>
 
 **Wenkai Tay**
 

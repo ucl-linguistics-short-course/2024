@@ -1,0 +1,19 @@
+---
+layout: home
+title: instructors
+heading: 'Instructors'
+banner: "/assets/images/banners/book2.jpg"
+---
+
+<div class="instructors clearfix">
+    {% for instructor in site.data.staff.Instructors %}
+    <div class="instructor-profile-two-col-bio">
+        <a href="{{ instructor.url }}" target="_blank"><img class="ppc-big" src="{{ instructor.image2 | prepend: '/assets/images/' | relative_url }}" /></a>
+        <ul class="instructor-info">
+        <li><a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+        <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
+        <li>{{ instructor.bio }}</li>
+        </ul>
+    </div>
+    {% endfor %}
+</div>

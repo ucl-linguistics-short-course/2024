@@ -15,7 +15,7 @@ banner: "/assets/images/banners/book1.webp"
     <li><a href="#m5">Worlds of Possibilities: Intensional Semantics and Modality</a></li>
     <li><a href="#m6">Issues in Pragmatics</a></li>
     <li><b>Term 3</b></li>
-    <li><a href="#m7">Seminar in psycholinguistics</a></li>
+    <li><a href="#m7">Seminar in Psycholinguistics</a></li>
 </ul>
 
 <br />
@@ -112,7 +112,7 @@ TBC
 
 # **<span style="text-align: center;">Term 3</span>**
 
-### Seminar in psycholinguistics <a name="m7"></a>
+### Seminar in Psycholinguistics <a name="m7"></a>
 
 **Kayla Chen**
 

@@ -44,6 +44,8 @@ Prerequisites: No prior background in syntax or semantics is assumed.
 
 Eye-tracking allows researchers to gain insight into human cognition and attention, and is becoming a very popular tool in psycholinguistics. In this course, I will give you an introduction to the eye-tracking method and its application in research on reading as well as spoken language processing. For the last day I might get a chance to show you a demo experiment!
 
+[Last year's slides](https://yiling-huo.github.io/eye-tracking-workshop-slides/)
+
 - Day 1: Introduction to the human visual system and the eye-tracking method
 - Day 2: Reading
 - Day 3: Spoken language processing in a visual context

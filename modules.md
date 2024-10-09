@@ -12,7 +12,7 @@ banner: "/assets/images/banners/book1.webp"
     <li><b>Term 2</b></li>
     <li><a href="#m3">Syntax: NPs and DPs</a></li>
     <li><a href="#m4">Introduction to Morphology</a></li>
-    <li><a href="#m5">Modality and Intensional Semantics</a></li>
+    <li><a href="#m5">Worlds of Possibilities: Intensional Semantics and Modality</a></li>
     <li><a href="#m6">Issues in Pragmatics</a></li>
     <li><b>Term 3</b></li>
     <li><a href="#m7">Seminar in psycholinguistics</a></li>
@@ -82,7 +82,7 @@ TBC
 
 <br />
 
-### Modality and Intensional Semantics <a name="m5"></a>
+### Worlds of Possibilities: Intensional Semantics and Modality <a name="m5"></a>
 
 **Tim Jantarungsee**
 

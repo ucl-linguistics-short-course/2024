@@ -7,7 +7,7 @@ banner: "/assets/images/banners/book1.webp"
 
 <ul style="list-style-type: none;">
     <li><b>Term 1</b></li>
-    <li><a href="#m1">Language and the Real World: an Introduction to Argument Structure</a></li>
+    <li><a href="#m1">Language and the Real World: an Introduction to Argument Structure (Zoom/hybrid)</a></li>
     <li><a href="#m2">The Eye-tracking Method and its Application in Language Research</a></li>
     <li><b>Term 2</b></li>
     <li><a href="#m3">Syntax: NPs and DPs</a></li>

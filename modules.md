@@ -15,7 +15,7 @@ banner: "/assets/images/banners/book1.webp"
     <li><a href="#m5">Worlds of Possibilities: Intensional Semantics and Modality</a></li>
     <li><a href="#m6">Issues in Pragmatics</a></li>
     <li><b>Term 3</b></li>
-    <li><a href="#m7">Seminar in Psycholinguistics</a></li>
+    <li><a href="#m7">Seminar in Psycholinguistics and Neurolinguistics (Zoom/hybrid)</a></li>
 </ul>
 
 <br />
@@ -114,11 +114,13 @@ TBC
 
 # **<span style="text-align: center;">Term 3</span>**
 
-### Seminar in Psycholinguistics <a name="m7"></a>
+### Seminar in Psycholinguistics and Neurolinguistics (Zoom/hybrid) <a name="m7"></a>
 
 **Kayla Chen**
 
-TBC
+This seminar explores classic and contemporary trends in psycholinguistics, focusing on key topics such as language comprehension and production, speech perception, and bilingualism. Each lecture will involve the discussion of two to three influential papers, providing an interactive format to examine both foundational ideas and recent advances. This course is perfect for those eager to expand their understanding of how language is processed in the human mind and engage critically with key research. 
+
+Course format: Hybrid (Zoom/In Person)
 
 - Day 1: tbc
 - Day 2: tbc

@@ -7,7 +7,7 @@ banner: "/assets/images/banners/book1.webp"
 
 <ul style="list-style-type: none;">
     <li><b>Term 1</b></li>
-    <li><a href="#m1">Language and the Real World: an Introduction to Argument Structure (Zoom/hybrid)</a></li>
+    <li><a href="#m1">Language and Thought: an Introduction to Argument Structure (Zoom/hybrid)</a></li>
     <li><a href="#m2">The Eye-tracking Method and its Application in Language Research</a></li>
     <li><b>Term 2</b></li>
     <li><a href="#m3">Syntax: NPs and DPs</a></li>
@@ -23,13 +23,15 @@ banner: "/assets/images/banners/book1.webp"
 
 # **<span style="text-align: center;">Term 1</span>**
 
-### Language and the Real World: an Introduction to Argument Structure (Zoom/hybrid)<a name="m1"></a>
+### Language and Thought: an Introduction to Argument Structure (Zoom/hybrid)<a name="m1"></a>
 
 **Wenkai Tay**
 
 What is the difference between "Dog bites man" and "Man bites dog"? How do we know that these two sentences describe different events in the real world? In this module, we will learn how language enables us to talk about the world around us, focusing in particular on how it helps us keep track of who does what to whom.
 
 Prerequisites: No prior background in syntax or semantics is assumed.
+
+[Zoom link](https://ucl.zoom.us/j/93989503779?pwd=h5DcisZeYEoDIJhqnW62Jja4wW3fWL.1)
 
 - Day 1: How do we think about the world around us? (event structure)
 - Day 2: What is the link between language and the real world? (linking theories)
@@ -45,7 +47,7 @@ Prerequisites: No prior background in syntax or semantics is assumed.
 
 Eye-tracking allows researchers to gain insight into human cognition and attention, and is becoming a very popular tool in psycholinguistics. In this course, I will give you an introduction to the eye-tracking method and its application in research on reading as well as spoken language processing. For the last day I might get a chance to show you a demo experiment!
 
-[Last year's slides](https://yiling-huo.github.io/eye-tracking-workshop-slides/)
+[Slides](https://yiling-huo.github.io/eye-tracking-workshop-slides-2024/)
 
 - Day 1: Introduction to the human visual system and the eye-tracking method
 - Day 2: Reading

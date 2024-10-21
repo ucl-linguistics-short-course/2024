@@ -31,13 +31,15 @@ What is the difference between "Dog bites man" and "Man bites dog"? How do we kn
 
 Prerequisites: No prior background in syntax or semantics is assumed.
 
+[Slides](https://taywenkai.com/language-and-thought-an-introduction-to-argument-structure/)
+
 [Zoom link](https://ucl.zoom.us/j/93989503779?pwd=h5DcisZeYEoDIJhqnW62Jja4wW3fWL.1)
 
-- Day 1: How do we think about the world around us? (event structure)
-- Day 2: What is the link between language and the real world? (linking theories)
-- Day 3: What information about the world does language encode? (predicate-argument structure)
-- Day 4: Why are linguistic theories so complicated? (decompositional/configurational approaches)
-- Day 5: How do we know if our linguistic theories are right? (case study: resultatives)
+- Week 1: How do we think about the world around us? (event structure)
+- Week 2: What is the link between language and the real world? (linking theories)
+- Week 3: What information about the world does language encode? (predicate-argument structure)
+- Week 4: Why are linguistic theories so complicated? (decompositional/configurational approaches)
+- Week 5: How do we know if our linguistic theories are right? (case study: resultatives)
 
 <br />
 
@@ -49,11 +51,11 @@ Eye-tracking allows researchers to gain insight into human cognition and attenti
 
 [Slides](https://yiling-huo.github.io/eye-tracking-workshop-slides-2024/)
 
-- Day 1: Introduction to the human visual system and the eye-tracking method
-- Day 2: Reading
-- Day 3: Spoken language processing in a visual context
-- Day 4: Eye-tracking with electroencephalography (EEG) and functional magnetic resonance imaging (fMRI)
-- Day 5: Demo experiment (subject to lab availability) / Considerations in experiment designs
+- Week 1: Introduction to the human visual system and the eye-tracking method
+- Week 2: Reading
+- Week 3: Spoken language processing in a visual context
+- Week 4: Eye-tracking with electroencephalography (EEG) and functional magnetic resonance imaging (fMRI)
+- Week 5: Demo experiment (subject to lab availability) / Considerations in experiment designs
 
 <br />
 
@@ -65,11 +67,11 @@ Eye-tracking allows researchers to gain insight into human cognition and attenti
 
 TBC
 
-- Day 1: tbc
-- Day 2: tbc
-- Day 3: tbc
-- Day 4: tbc
-- Day 5: tbc
+- Week 1: tbc
+- Week 2: tbc
+- Week 3: tbc
+- Week 4: tbc
+- Week 5: tbc
 
 <br />
 
@@ -79,11 +81,11 @@ TBC
 
 TBC
 
-- Day 1: tbc
-- Day 2: tbc
-- Day 3: tbc
-- Day 4: tbc
-- Day 5: tbc
+- Week 1: tbc
+- Week 2: tbc
+- Week 3: tbc
+- Week 4: tbc
+- Week 5: tbc
 
 <br />
 
@@ -93,11 +95,11 @@ TBC
 
 TBC
 
-- Day 1: tbc
-- Day 2: tbc
-- Day 3: tbc
-- Day 4: tbc
-- Day 5: tbc
+- Week 1: tbc
+- Week 2: tbc
+- Week 3: tbc
+- Week 4: tbc
+- Week 5: tbc
 
 <br />
 
@@ -107,11 +109,11 @@ TBC
 
 TBC
 
-- Day 1: tbc
-- Day 2: tbc
-- Day 3: tbc
-- Day 4: tbc
-- Day 5: tbc
+- Week 1: tbc
+- Week 2: tbc
+- Week 3: tbc
+- Week 4: tbc
+- Week 5: tbc
 
 <br />
 
@@ -121,11 +123,11 @@ TBC
 
 TBC
 
-- Day 1: tbc
-- Day 2: tbc
-- Day 3: tbc
-- Day 4: tbc
-- Day 5: tbc
+- Week 1: tbc
+- Week 2: tbc
+- Week 3: tbc
+- Week 4: tbc
+- Week 5: tbc
 
 <br />
 
@@ -139,10 +141,10 @@ This seminar explores classic and contemporary trends in psycholinguistics, focu
 
 Course format: Hybrid (Zoom/In Person)
 
-- Day 1: tbc
-- Day 2: tbc
-- Day 3: tbc
-- Day 4: tbc
-- Day 5: tbc
+- Week 1: tbc
+- Week 2: tbc
+- Week 3: tbc
+- Week 4: tbc
+- Week 5: tbc
 
 <br />

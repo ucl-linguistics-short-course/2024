@@ -14,8 +14,9 @@ banner: "/assets/images/banners/book1.webp"
     <li><a href="#m4">Introduction to Morphology</a></li>
     <li><a href="#m5">Worlds of Possibilities: Intensional Semantics and Modality</a></li>
     <li><a href="#m6">Issues in Pragmatics</a></li>
+    <li><a href="#m7">Topics in Experimental Pragmatics</a></li>
     <li><b>Term 3</b></li>
-    <li><a href="#m7">Seminar in Psycholinguistics and Neurolinguistics (Zoom/hybrid)</a></li>
+    <li><a href="#m8">Seminar in Psycholinguistics and Neurolinguistics (Zoom/hybrid)</a></li>
 </ul>
 
 <br />
@@ -112,9 +113,23 @@ TBC
 
 <br />
 
+### Topics in Experimental Pragmatics <a name="m7"></a>
+
+**Erying Qin, Shenshen Wang**
+
+TBC
+
+- Day 1: tbc
+- Day 2: tbc
+- Day 3: tbc
+- Day 4: tbc
+- Day 5: tbc
+
+<br />
+
 # **<span style="text-align: center;">Term 3</span>**
 
-### Seminar in Psycholinguistics and Neurolinguistics (Zoom/hybrid) <a name="m7"></a>
+### Seminar in Psycholinguistics and Neurolinguistics (Zoom/hybrid) <a name="m8"></a>
 
 **Kayla Chen**
 

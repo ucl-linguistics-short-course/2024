@@ -95,11 +95,11 @@ TBC
 
 TBC
 
-- Week 1: tbc
-- Week 2: tbc
-- Week 3: tbc
-- Week 4: tbc
-- Week 5: tbc
+- Week 1: Sinn und Bedeutung: An Introduction to Intensionality and Modal Logic
+- Week 2: What “must” and “can” must and can mean: Kratzer Modality and Ty2 Logic
+- Week 3: Measurement and Modality: Graded Modality and Dynamic Modal Logic
+- Week 4: A can-versation on ability: Research Seminar on “Ability”
+- Week 5: Intensionality: De re/De dicto and Propositional Attitudes
 
 <br />
 

@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UCL Linguistics Short Courses 2024
+title: UCL Linguistics Short Courses 24/25
 email: ucllinguisticsshortcourse@gmail.com
 author: UCL Linguistics Short Courses
 
@@ -43,7 +43,7 @@ author: UCL Linguistics Short Courses
 #copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  UCL Linguistics Short Courses 2024 is a short training programme for students of all levels with a goal of introducing students to a broad range of topics in linguistics.
+  UCL Linguistics Short Courses 24/25 is a short training programme for students of all levels with a goal of introducing students to a broad range of topics in linguistics.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com

@@ -9,13 +9,12 @@ banner: "/assets/images/banners/book1.webp"
     <li><b>Term 1</b></li>
     <li><a href="#m1">Language and Thought: an Introduction to Argument Structure (Zoom/hybrid)</a></li>
     <li><a href="#m2">The Eye-tracking Method and its Application in Language Research</a></li>
-    <li><b>Term 2 part 1</b></li>
-    <li><a href="#m6">“Literal” Expressions and their Uses</a></li>
+    <li><b>Term 2</b></li>
     <li><a href="#m5">Worlds of Possibilities: Intensional Semantics and Modality</a></li>
-    <li><b>Term 2 part 2</b></li>
+    <li><a href="#m6">“Literal” Expressions and Their Uses</a></li>
+    <li><a href="#m7">Topics in Experimental Pragmatics</a></li>
     <li><a href="#m3">Syntax: NPs and DPs</a></li>
     <li><a href="#m4">Introduction to Morphology</a></li>
-    <li><a href="#m7">Topics in Experimental Pragmatics</a></li>
     <li><b>Term 3</b></li>
     <li><a href="#m8">Seminar in Psycholinguistics and Neurolinguistics (Zoom/hybrid)</a></li>
 </ul>
@@ -56,13 +55,27 @@ Eye-tracking allows researchers to gain insight into human cognition and attenti
 - Week 2: Reading
 - Week 3: Spoken language processing in a visual context
 - Week 4: Eye-tracking with electroencephalography (EEG) and functional magnetic resonance imaging (fMRI)
-- Week 5: Demo experiment (subject to lab availability) / Considerations in experiment designs
+- Week 5: Demo experiment / Considerations in experiment designs
 
 <br />
 
-# **<span style="text-align: center;">Term 2: Part 1</span>**
+# **<span style="text-align: center;">Term 2</span>**
 
-### “Literal” Expressions and their Uses <a name="m6"></a>
+### Worlds of Possibilities: Intensional Semantics and Modality <a name="m5"></a>
+
+**Tim Jantarungsee**
+
+TBC
+
+- Week 1: Sinn und Bedeutung: An Introduction to Intensionality and Modal Logic
+- Week 2: What “must” and “can” must and can mean: Kratzer Modality and Ty2 Logic
+- Week 3: Measurement and Modality: Graded Modality and Dynamic Modal Logic
+- Week 4: A can-versation on ability: Research Seminar on “Ability”
+- Week 5: Intensionality: De re/De dicto and Propositional Attitudes
+
+<br />
+
+### “Literal” Expressions and Their Uses <a name="m6"></a>
 
 **Yolanda García-Lorenzo, Teru Konishi, Xinxin Yan**
 
@@ -71,7 +84,7 @@ There is a widely held belief that our language use is by default “literal”.
 - Week 1: What do we mean by “literal”? (Teru (tent.)) 
 
     This session introduces the concept of literal and non-literal uses of language and questions whether this distinction is really apt. Are metaphors really “non-literal”? What are “literal” uses, and are they useful at all in communication? The definitions and questions raised in this lecture should guide the rest of the course. 
-    
+
 - Week 2: Metaphor & Simile: Are they essentially the same? (Xinxin)
 
     In this session, we’ll take a step back and reconsider the commonly held assumption that metaphors and similes are interchangeable and essentially the same. Are metaphors implicit similes? Are similes hedged metaphors? Or could they be fundamentally different and only happen to be similar in some cases? Together, we’ll explore the arguments and empirical evidences supporting each perspective. The answer, as it turns out, may not be so straightforward…
@@ -90,21 +103,19 @@ There is a widely held belief that our language use is by default “literal”.
 
 <br />
 
-### Worlds of Possibilities: Intensional Semantics and Modality <a name="m5"></a>
+### Topics in Experimental Pragmatics <a name="m7"></a>
 
-**Tim Jantarungsee**
+**Erying Qin, Shenshen Wang**
 
 TBC
 
-- Week 1: Sinn und Bedeutung: An Introduction to Intensionality and Modal Logic
-- Week 2: What “must” and “can” must and can mean: Kratzer Modality and Ty2 Logic
-- Week 3: Measurement and Modality: Graded Modality and Dynamic Modal Logic
-- Week 4: A can-versation on ability: Research Seminar on “Ability”
-- Week 5: Intensionality: De re/De dicto and Propositional Attitudes
+- Week 1: tbc
+- Week 2: tbc
+- Week 3: tbc
+- Week 4: tbc
+- Week 5: tbc
 
 <br />
-
-# **<span style="text-align: center;">Term 2: Part 2</span>**
 
 ### Syntax: NPs and DPs<a name="m3"></a>
 
@@ -123,21 +134,6 @@ TBC
 ### Introduction to Morphology  <a name="m4"></a>
 
 **Abdullah Almuhaysh**
-
-TBC
-
-- Week 1: tbc
-- Week 2: tbc
-- Week 3: tbc
-- Week 4: tbc
-- Week 5: tbc
-
-<br />
-
-
-### Topics in Experimental Pragmatics <a name="m7"></a>
-
-**Erying Qin, Shenshen Wang**
 
 TBC
 

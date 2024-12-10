@@ -60,7 +60,7 @@ Eye-tracking allows researchers to gain insight into human cognition and attenti
 
 <br />
 
-# **<span style="text-align: center;">Term 2</span>**
+# **<span style="text-align: center;">Term 2: Part 1</span>**
 
 ### “Literal” Expressions and their Uses <a name="m6"></a>
 
@@ -69,14 +69,23 @@ Eye-tracking allows researchers to gain insight into human cognition and attenti
 There is a widely held belief that our language use is by default “literal”. At the same time, many cases of language use taught in Pragmatics deal with “non-literal” expressions and communication. Is there anything interesting to say about “literal” uses of language? This course aims to examine the concept of “literal” expressions and their uses in communication – questioning the very definition and distinction of this concept. 
 
 - Week 1: What do we mean by “literal”? (Teru (tent.)) 
+
     This session introduces the concept of literal and non-literal uses of language and questions whether this distinction is really apt. Are metaphors really “non-literal”? What are “literal” uses, and are they useful at all in communication? The definitions and questions raised in this lecture should guide the rest of the course. 
+    
 - Week 2: Metaphor & Simile: Are they essentially the same? (Xinxin)
+
     In this session, we’ll take a step back and reconsider the commonly held assumption that metaphors and similes are interchangeable and essentially the same. Are metaphors implicit similes? Are similes hedged metaphors? Or could they be fundamentally different and only happen to be similar in some cases? Together, we’ll explore the arguments and empirical evidences supporting each perspective. The answer, as it turns out, may not be so straightforward…
+
 - Week 3: Irony, Lies, Mistakes: Exploring the Concept of Commitment (Yolanda)
+
     In this session, we will explore the distinctions between lies, irony, and mistakes—instances in which a speaker communicates something false. The discussion will centre on the concept of commitment and its critical role in distinguishing literal from non-literal uses of language.
+
 - Week 4: Irony (Yolanda)
+
     This session will delve into various theories of irony, examine the cues that signal ironic utterances, and explore the motivations behind using irony. Additionally, we will discuss whether the literal meaning of the utterance is processed during the interpretation of irony.
+
 - Week 5: Idioms, Proverbs and Interpretive Use (Teru)
+
     “You can’t put toothpaste back into the tube” “A rolling stone gathers no moss” – idiomatic and proverbial expressions like these express a situation that is semantically unrelated to the topic of the conversation on the surface yet communicate an important message that is structurally and logically connected to it. In this session, we examine the mechanisms of such expressions and the role “literal” meaning plays in their interpretation. 
 
 <br />
@@ -94,6 +103,8 @@ TBC
 - Week 5: Intensionality: De re/De dicto and Propositional Attitudes
 
 <br />
+
+# **<span style="text-align: center;">Term 2: Part 2</span>**
 
 ### Syntax: NPs and DPs<a name="m3"></a>
 

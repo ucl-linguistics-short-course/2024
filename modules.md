@@ -16,7 +16,7 @@ banner: "/assets/images/banners/book1.webp"
     <li><a href="#m3">Syntax: NPs and DPs</a></li>
     <li><a href="#m4">Introduction to Morphology</a></li>
     <li><b>Term 3</b></li>
-    <li><a href="#m8">Seminar in Psycholinguistics and Neurolinguistics (Zoom/hybrid)</a></li>
+    <li><a href="#m8">Seminar in Psycholinguistics and Neurolinguistics (hybrid)</a></li>
 </ul>
 
 <br />
@@ -147,7 +147,7 @@ TBC
 
 # **<span style="text-align: center;">Term 3</span>**
 
-### Seminar in Psycholinguistics and Neurolinguistics (Zoom/hybrid) <a name="m8"></a>
+### Seminar in Psycholinguistics and Neurolinguistics (hybrid) <a name="m8"></a>
 
 **Kayla Chen**
 

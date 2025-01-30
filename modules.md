@@ -65,8 +65,6 @@ Eye-tracking allows researchers to gain insight into human cognition and attenti
 
 **Tim Jantarungsee**
 
-TBC
-
 - Week 1: Sinn und Bedeutung: An Introduction to Intensionality and Modal Logic
 - Week 2: What “must” and “can” must and can mean: Kratzer Modality and Ty2 Logic
 - Week 3: Measurement and Modality: Graded Modality and Dynamic Modal Logic
@@ -107,13 +105,27 @@ There is a widely held belief that our language use is by default “literal”.
 
 **Erying Qin, Shenshen Wang**
 
-TBC
+Pragmatics is the branch of linguistics concerned with context-dependent meaning, compared to semantics that deals with the meaning of words and sentences in isolation. As a relatively new research area, experimental pragmatics is a subfield of pragmatics that uses empirical, experimental methods to study how meaning is shaped by factors like the speaker's intentions, the listener's interpretation, the context of the conversation, and social norms. In this module, we consider examples of research topics in experimental pragmatics and cognitive mechanisms (e.g., reaction time, working memory load) which are used to investigate theories in pragmatics research.
 
-- Week 1: tbc
-- Week 2: tbc
-- Week 3: tbc
-- Week 4: tbc
-- Week 5: tbc
+-	Day 1: Introduction to experimental pragmatics
+
+    In the first half of this session, we will introduce experimental pragmatics and its research topics in general. If time permits, we will take a glance at the concept of Scalar Inference (or Scalar Implicature, if you like), which is one of the commonly-studied pragmatic phenomena.
+
+-	Day 2: Scalar Inferences: what working memory tells us about pragmatic inferences
+
+    This session will explore the studies on Scalar Inferences. We will take working memory as an example - to see how methods commonly used in psychology/psycholinguistics experiments can be applied to answer research questions in experimental pragmatics.  
+
+-	Day 3: Perspective-taking in implicature derivation: what developmental study tells us about pragmatic inferences
+
+    In this session, we will discuss inferences in a more general way. As pragmatics focuses on how meaning can vary depending on the speaker's and listener's perspectives, and there is usually a developmental difference in perspective-taking between children and adults, research that incorporates these factors adds another piece to the puzzle of studies on pragmatic inferences.
+
+-	Day 4: Why Are Negative Sentences Hard to Process?
+
+    This session will present various experimental findings and review current accounts of negation processing. Why are negative sentences generally more demanding to process than affirmative ones? How can we explain this difficulty? Specifically, we will explore the extra cognitive effort required to interpret negative sentences and examine the role that positive arguments play in this process.
+
+-	Day 5: Another Look from the Dynamic Pragmatic View: Evidence Across Different Tasks
+
+    In this session, we will evaluate the dynamic pragmatic view of negation processing, drawing on evidence from various experimental pragmatics tasks. In particular, we will focus on one negation and the sentence-picture verification task. Additionally, we will review many factors at play in verification tasks when negation is involved, highlighting how these factors may influence processing.
 
 <br />
 

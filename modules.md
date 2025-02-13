@@ -147,13 +147,27 @@ TBC
 
 **Abdullah Almuhaysh**
 
-TBC
+Morphology is the branch of linguistics that studies words by asking questions such as: What are words? How are they structured? The aim of this course is to familiarize students with crosslinguistic morphological phenomena and terminology before tackling work on theoretical frameworks. We will also consider how syntax, semantics, and phonology are related to morphology. Thus, this class is a buffet that invites the students to sample the delicious dishes of morphology in hopes of indulging into them further in the future.
 
-- Week 1: tbc
-- Week 2: tbc
-- Week 3: tbc
-- Week 4: tbc
-- Week 5: tbc
+- Week 1: What Is Morphology About?
+
+    We will begin the first day by easing our way in and introducing key terminology about morphology. This should serve either as an appetizer to totally new students, or a refresher to students familiar with the different morphological units (such as morphemes). We will also briefly look at the inflection vs derivational dichotomy, as well as the concept of allomorphy.
+
+- Week 2: More Morphological Phenomena
+
+    During the second week, we will explore general morphological phenomena, such as borrowing, compunding, and clipping. However, we will consider very interesting phenomena such as suppletion, syncretism, word classes (such as gender), and zero morphology.
+
+- Week 3: The Morphology and Phonology Interface: Autosegmental (Morpho)phonology
+
+    During the third week, we will tackle the problem of non-concatenative morphology: Cases where morphological operations seem to be disjoined, unlike English's dominantly concatenative morphology (base-suffix patterns). We will focus greatly on languages such as Arabic and how they employ templatic morphology in order insert disjoined affixes. We will see how morphological affixation is not restricted to consonants and vowels, but also to suprasegmental elements such as tone and stress, and subsegmentals such as phonological features (+nasal, -plosive, etc).
+
+- Week 4: Morphosyntax: The Morphology and Syntax Interface
+
+    During the fourth week, we will ponder the status of morphology and syntax. We will see how they are similar in their structuring (constituents in words and sentences). We will also take a closer look at morphosyntactic phenomena such as agreement and concord, Mark Baker 1985's mirror principle, verbal auxiliary data, and an interesting morphophonology constraint on the comparative and superlative morphosyntax of Hasawi Arabic.]
+
+- Week 5: Morphological Universals: * ABA and Greenberg Universal 20 in Morphology
+
+    In the final session, we will consider two postulated universal constraints in morphology: Bobaljik 2012's * ABA constraint and Kloudova 2020's take of Greenberg Universal 20 in morphology. We will see how these constraints are related to phenomena such as syncretism, suppletion, and morphological containment. Finally, we will point towards an entrance to morphological theory before concluding the course.
 
 <br />
 

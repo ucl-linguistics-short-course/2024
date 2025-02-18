@@ -107,6 +107,8 @@ There is a widely held belief that our language use is by default “literal”.
 
 Pragmatics is the branch of linguistics concerned with context-dependent meaning, compared to semantics that deals with the meaning of words and sentences in isolation. As a relatively new research area, experimental pragmatics is a subfield of pragmatics that uses empirical, experimental methods to study how meaning is shaped by factors like the speaker's intentions, the listener's interpretation, the context of the conversation, and social norms. In this module, we consider examples of research topics in experimental pragmatics and cognitive mechanisms (e.g., reaction time, working memory load) which are used to investigate theories in pragmatics research.
 
+[Zoom link](https://ucl.zoom.us/j/96668302180)
+
 -	Day 1: Introduction to experimental pragmatics
 
     In the first half of this session, we will introduce experimental pragmatics and its research topics in general. If time permits, we will take a glance at the concept of Scalar Inference (or Scalar Implicature, if you like), which is one of the commonly-studied pragmatic phenomena.

@@ -135,13 +135,13 @@ Pragmatics is the branch of linguistics concerned with context-dependent meaning
 
 **Boyan Yin**
 
-TBC
+Definiteness is a fundamental yet cross-linguistically diverse feature of noun phrase structure, shaping how languages encode reference, specificity, and discourse prominence. While many familiar languages mark definiteness overtly through articles, others rely on alternative strategies such as demonstratives, affixation, or even pragmatic inference. This short course will explore the syntactic and semantic encoding of definiteness, beginning with an overview of key theoretical perspectives and the DP hypothesis. We will then examine the cross-linguistic variation in definiteness marking through case studies: languages with multiple determiners, those lacking overt determiners, and experimental work on understanding DPs. Rather than aiming for a single conclusive account, this course encourages critical reflection on the diversity of definiteness encoding and its implications for our understanding of linguistic universals.
 
-- Week 1: tbc
-- Week 2: tbc
-- Week 3: tbc
-- Week 4: tbc
-- Week 5: tbc
+- Week 1: Introduction
+- Week 2: The DP hypothesis and its universality
+- Week 3: Case study 1: multiple determiners
+- Week 4: Case study 2: no determiners
+- Week 5: Case study 3: experimental work on understanding DPs
 
 <br />
 

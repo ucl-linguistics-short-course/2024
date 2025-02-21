@@ -13,6 +13,7 @@ banner: "/assets/images/banners/book1.webp"
     <li><a href="#m5">Worlds of Possibilities: Intensional Semantics and Modality</a></li>
     <li><a href="#m6">“Literal” Expressions and Their Uses</a></li>
     <li><a href="#m7">Topics in Experimental Pragmatics</a></li>
+    <li><a href="#m9">Introduction to Event Semantics</a></li>
     <li><a href="#m3">Syntax: NPs and DPs</a></li>
     <li><a href="#m4">Introduction to Morphology</a></li>
     <li><b>Term 3</b></li>
@@ -128,6 +129,20 @@ Pragmatics is the branch of linguistics concerned with context-dependent meaning
 -	Day 5: Another Look from the Dynamic Pragmatic View: Evidence Across Different Tasks
 
     In this session, we will evaluate the dynamic pragmatic view of negation processing, drawing on evidence from various experimental pragmatics tasks. In particular, we will focus on one negation and the sentence-picture verification task. Additionally, we will review many factors at play in verification tasks when negation is involved, highlighting how these factors may influence processing.
+
+<br />
+
+### Introduction to Event Semantics<a name="m9"></a>
+
+**Jiajia Wang**
+
+This short course aims to present the motivation and considerations in event semantics, with a focus on Davidsonian and neo-Davidsonian theories. First, we will establish foundational arguments for positing event arguments. Subsequent weeks will explore the finegrainedness of events, introduce the Unique Role Requirement, and apply these frameworks to phenomena such as passive-sensitive adverbs, passivisation, and plurality. Finally, we will critically assess some alternative approaches.
+
+- Week 1: Why do we need an event argument?
+- Week 2: Are 'buying' and 'selling' one event or two?
+- Week 3: Topic 1: passive-sensitive adverbs and passivisation
+- Week 4: Topic 2: multiple roles and plurality
+- Week 5: Any alternatives? (Tentative)
 
 <br />
 

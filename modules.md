@@ -16,8 +16,8 @@ banner: "/assets/images/banners/book1.webp"
     <li><a href="#m9">Introduction to Event Semantics</a></li>
     <li><a href="#m3">Syntax: NPs and DPs</a></li>
     <li><a href="#m4">Introduction to Morphology</a></li>
-    <li><b>Term 3</b></li>
-    <li><a href="#m8">Seminar in Psycholinguistics and Neurolinguistics (hybrid)</a></li>
+    <!-- <li><b>Term 3</b></li>
+    <li><a href="#m8">Seminar in Psycholinguistics and Neurolinguistics (hybrid)</a></li> -->
 </ul>
 
 <br />

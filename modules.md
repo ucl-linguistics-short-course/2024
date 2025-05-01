@@ -187,21 +187,3 @@ Morphology is the branch of linguistics that studies words by asking questions s
     In the final session, we will consider two postulated universal constraints in morphology: Bobaljik 2012's * ABA constraint and Kloudova 2020's take of Greenberg Universal 20 in morphology. We will see how these constraints are related to phenomena such as syncretism, suppletion, and morphological containment. Finally, we will point towards an entrance to morphological theory before concluding the course.
 
 <br />
-
-# **<span style="text-align: center;">Term 3</span>**
-
-### Seminar in Psycholinguistics and Neurolinguistics (hybrid) <a name="m8"></a>
-
-**Kayla Chen**
-
-This seminar explores classic and contemporary trends in psycholinguistics, focusing on key topics such as language comprehension and production, speech perception, and bilingualism. Each lecture will involve the discussion of two to three influential papers, providing an interactive format to examine both foundational ideas and recent advances. This course is perfect for those eager to expand their understanding of how language is processed in the human mind and engage critically with key research. 
-
-Course format: Hybrid (Zoom/In Person)
-
-- Week 1: tbc
-- Week 2: tbc
-- Week 3: tbc
-- Week 4: tbc
-- Week 5: tbc
-
-<br />

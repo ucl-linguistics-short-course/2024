@@ -6,12 +6,12 @@ Instructors:
       image2: staff/abdullah2.png
       bio: I am a PhD student specializing in the morphosyntax of Arabic tense and aspect. I also delve into phonology (autosegmental morphophonology) and the formal semantics of tense and aspect in order to account for modern Arabic dialects and how they lexicalize their VPs and auxiliaries.
 
-    - name: Kayla Chen
-      email: keyue.chen.19@ucl.ac.uk
-      url: https://keyue-c.github.io/
-      image1: staff/kayla1.png
-      image2: staff/kayla2.png
-      bio: Fourth-year PhD student with an interest in psycholinguistics and neurolinguistics, particularly in the predictive mechanisms in real-time language comprehension, and the interaction between language processing and (domain-general) cognitive processes (e.g., cognitive control, memory, attention).
+    # - name: Kayla Chen
+    #   email: keyue.chen.19@ucl.ac.uk
+    #   url: https://keyue-c.github.io/
+    #   image1: staff/kayla1.png
+    #   image2: staff/kayla2.png
+    #   bio: Fourth-year PhD student with an interest in psycholinguistics and neurolinguistics, particularly in the predictive mechanisms in real-time language comprehension, and the interaction between language processing and (domain-general) cognitive processes (e.g., cognitive control, memory, attention).
 
     - name: Yolanda García-Lorenzo
       email: y.lorenzo@ucl.ac.uk
@@ -25,7 +25,7 @@ Instructors:
       url: https://yiling-huo.github.io/
       image1: staff/yiling1.png
       image2: staff/yiling2.png
-      bio: Yiling Huo is a PhD student at UCL specialising in Linguistics (psycholinguistics). Her research focuses on prediction mechanisms during language comprehension. She is currently working on phonological information in prediction as well as the effect of task on prediction. <br /><br /><br /><br /><br /><br />
+      bio: Yiling Huo is a PhD student at UCL specialising in Linguistics (psycholinguistics). Her research focuses on prediction mechanisms during language comprehension. She is currently working on phonological information in prediction as well as the effect of task on prediction. <br /><br /><br />
 
     - name: Tim Jantarungsee
       email: t.jantarungsee@ucl.ac.uk
@@ -46,7 +46,7 @@ Instructors:
       url: https://www.ucl.ac.uk/pals/research/linguistics/linguistics-people
       image1: staff/erying1.png
       image2: staff/erying2.png
-      bio: Erying Qin works on experimental pragmatics, which aims to use methodologies drawn from the experimental psychology to investigate current theories of semantics and pragmatics for human language. Her doctoral work focuses on scalar inferences for different scalar words, particularly for paucal quantifiers.
+      bio: Erying Qin works on experimental pragmatics, which aims to use methodologies drawn from the experimental psychology to investigate current theories of semantics and pragmatics for human language. Her doctoral work focuses on scalar inferences for different scalar words, particularly for paucal quantifiers.<br /><br /><br /><br /><br />
 
     - name: Jiajia Wang
       email: jiajia.wang.22@ucl.ac.uk
